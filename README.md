@@ -27,7 +27,10 @@ Installazione con un click, aggiornamenti automatici.
 
 ### 👉 Installer diretto (.exe / .msix)  
 Per chi preferisce l’installazione manuale.  
-**[Download diretto](#)**
+**## 🛒 Download
+**[Download HelpdeskWin]
+(https://github.com/frighi83/HelpdeskWin/releases/download/v1.0/HelpdeskWin.zip)**
+
 
 ---
 
