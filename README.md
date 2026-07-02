@@ -37,7 +37,11 @@ Per chi preferisce l’installazione manuale.
 
 ## 📸 Screenshot
 
-*(Inserisci qui le immagini dell’app — basta trascinarle nel README su GitHub)*
+<img width="813" height="710" alt="Screenshot 2026-06-26 175840" src="https://github.com/user-attachments/assets/6ccc5a2d-6e06-47cb-8023-8b6c278666c8" />
+<img width="1042" height="600" alt="Screenshot 2026-06-26 180032" src="https://github.com/user-attachments/assets/86152ffa-4633-4867-8dbb-a1bdb696babe" />
+<img width="912" height="652" alt="Screenshot 2026-06-26 180056" src="https://github.com/user-attachments/assets/7c4b135f-9a86-46d8-ba81-4e54e6d44667" />
+<img width="1049" height="672" alt="Screenshot 2026-06-26 180107" src="https://github.com/user-attachments/assets/78f38399-2aad-405c-bdb0-97ce66aa720a" />
+<img width="484" height="562" alt="Screenshot 2026-06-26 180114" src="https://github.com/user-attachments/assets/996d61a4-d9ac-4520-957e-90dc6996d272" />
 
 ---
 
