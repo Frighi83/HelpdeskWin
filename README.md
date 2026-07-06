@@ -26,13 +26,6 @@ Installazione con un click, aggiornamenti automatici.
 **[Scarica HelpdeskWin dal Microsoft Store](#)**
 https://apps.microsoft.com/detail/9NQVJCPQNPN6?hl=it-it&gl=IT&ocid=pdpshare
 
-### 👉 Installer diretto (.exe / .msix)  
-Per chi preferisce l’installazione manuale.  
- 🛒 
-**[Download HelpdeskWin]
-(https://github.com/frighi83/HelpdeskWin/releases/download/v1.0/HelpdeskWin.zip)**
-
-
 ---
 
 ## 📸 Screenshot
